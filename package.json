@@ -1,0 +1,24 @@
+{
+  "name": "svg-square-spatial-relations",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/svg-square-spatial-relations.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/svg-square-spatial-relations/issues"
+  },
+  "homepage": "https://github.com/stierma1/svg-square-spatial-relations#readme",
+  "dependencies": {
+    "spatial-relationships-169": "^1.0.1",
+    "svg-json-parser": "^0.7.3",
+    "svg-parse": "^1.3.2"
+  }
+}
